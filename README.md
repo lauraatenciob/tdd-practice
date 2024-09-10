@@ -30,14 +30,14 @@ You need to have **Node.js** and **npm** installed. If you don't have them, you 
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/calculator-tdd.git
-   cd calculator-tdd
+git clone https://github.com/your-username/calculator-tdd.git
+cd calculator-tdd
 ```
 
 2. Install the dependencies:
 
 ```bash
-    npm install
+npm install
 ```
 
 ### Avaliable Scripts
@@ -45,12 +45,12 @@ You need to have **Node.js** and **npm** installed. If you don't have them, you 
 To start the application in development mode, run:
 
 ```bash
-    npm run dev
+npm run dev
 ```
 To execute the test suite and see the results, run:
 
 ```bash
-    npm test
+npm test
 ```
 
 ## Learning Outcomes
